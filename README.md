@@ -4,7 +4,7 @@ Analyses conducted for projects in statistics classes at Harvard University
 ## Intermediate Statistical Analysis in Psychology (IntermediateStats)
 The final project in this course was to analyze real-world data using the methods we learned in class. [Julia Leonard](https://github.com/jlnrd) and I wrote these analyses together. Folder includes:
 
-1) Analysis code, which demonstrates the following methodologies: *chi squared test, linear & mixed models, beta regression, stepwise logistic regression, ANOVA, ANCOVA, permutation testing, in addition to data visualization and descriptive methods*.
+1) Analysis code, which demonstrates the following methodologies: *chi squared test, linear & mixed models, beta regression, stepwise logistic regression, ANOVA, ANCOVA, permutation testing*, in addition to data visualization and descriptive methods.
 
 2) A summary of the results.
 
