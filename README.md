@@ -8,8 +8,8 @@ The final project in this course was to analyze real-world data using the method
 
 2) A summary of the results.
 
-
-
+&nbsp;
+&nbsp;
 ## Statistical Learning (AdvancedStats)
 This class involved midterm and final projects with a similar directive as above. Julia Leonard was also my partner in this course, but included are only the analysis I conducted for my half of the assignments.
 
